@@ -55,11 +55,6 @@ A passionate and driven **Full Stack Developer** on a journey to build meaningfu
 
 ---
 
-## 🌲 3D Contribution Forest
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-525/Omar-525/output/metrics.plugin.isocalendar.fullyear.svg" alt="Omar's 3D Contribution Forest" width="100%" />
-</p>
 
 ---
 
@@ -74,7 +69,7 @@ A passionate and driven **Full Stack Developer** on a journey to build meaningfu
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:525226@oi.edu.eg">
+  <a href="mailto:omr39629@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Omar-525">
