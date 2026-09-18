@@ -73,4 +73,9 @@
 ### 🐍 خريطة المساهمات التفاعلية
 
 ![Snake animation]https://raw.githubusercontent.com/Omar-525/Omar-525/output/github-contribution-grid-snake-dark.svg)
+
+
+## 🐍 Snake Eating My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/Omar-525/Omar-525/output/github-contribution-grid-snake-dark.svg)
 </div>
