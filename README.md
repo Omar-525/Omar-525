@@ -9,7 +9,7 @@
 
 ---
 
-### 🌐 [عنّي](#-عني) • 📬 [التواصل](#-وسائل-التواصل) • 🛠️ [المهارات](#️-المهارات-التقنية) • 📊 [الإحصائيات](#-إحصائيات-github)
+### 🌐 [عنّي](#-عني) • 📬 [التواصل](#-وسائل-التواصل) • 🛠️ [المهارات](#-المهارات-التقنية) • 📊 [الإحصائيات](#-إحصائيات-github) • 🐍 [الثعبان](#-لعبة-الثعبان)
 
 ---
 
@@ -21,6 +21,17 @@
 - 🎓 طالب في قسم نظم ومعلومات الأعمال (**Business Information Systems**).
 - 💡 مهتم بالمساهمة في المصادر المفتوحة وتطوير حلول برمجية مبتكرة.
 - 🔍 أبحث حالياً عن فرص تدريب عملي أو مشاريع جديدة للتعاون.
+
+---
+
+## 📌 أبرز المشاريع
+
+<div align="center">
+
+[![Sadeem Blog](https://github-readme-stats.vercel.app/api/pin/?username=Omar-525&repo=Sadeem&theme=dark)](https://github.com/Omar-525)
+[![WebRTC Video App](https://github-readme-stats.vercel.app/api/pin/?username=Omar-525&repo=WebRTC-Meeting&theme=dark)](https://github.com/Omar-525)
+
+</div>
 
 ---
 
@@ -68,9 +79,10 @@
 
 ---
 
+## 🐍 لعبة الثعبان
+
 <div align="center">
 
-## 🐍 خريطة المساهمات التفاعلية
+![Snake animation](https://raw.githubusercontent.com/Omar-525/Omar-525/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/Omar-525/Omar-525/output/github-contribution-grid-snake-dark.svg)
 </div>
