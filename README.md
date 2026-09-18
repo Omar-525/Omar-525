@@ -55,10 +55,10 @@ A passionate and driven **Full Stack Developer** on a journey to build meaningfu
 
 ---
 
-## 🌲 Contribution Forest
+## 🌲 3D Contribution Forest
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00B26A/Omar-525" alt="Omar's Contribution Chart" width="100%" />
+  <img src="https://raw.githubusercontent.com/Omar-525/Omar-525/output/metrics.plugin.isocalendar.fullyear.svg" alt="Omar's 3D Contribution Forest" width="100%" />
 </p>
 
 ---
